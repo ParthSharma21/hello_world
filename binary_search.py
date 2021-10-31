@@ -1,5 +1,6 @@
 #this is a binary search program
 #yes this program is correct
+#no this program is not correct
 def binary_search(arr, low, high, x): 
   
     # Check base case 
